@@ -10,3 +10,6 @@ This project is from the Day 13 code along video from Udemy's 50 projects in 50 
 
 ### Things Learned
 
+* .focus() method to put cursor focus on element
+* .trim() method removes spaces 
+
