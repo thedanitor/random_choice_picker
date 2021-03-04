@@ -6,7 +6,7 @@ This project is from the Day 13 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
-
+Nifty app for random selection with visual appeal. This project helped cement my understanding of setTimeout() and setInterval() and is a great example of how to apply those methods.
 
 ### Things Learned
 
